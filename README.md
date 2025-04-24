@@ -7,7 +7,9 @@ Lacey, 98503
 dreyp81004@gmail.com
 
 
-I am interested in puzzles and computers, I want to have a job I can enjoy, so I want to develop my programming skills more, as well as my problem-solving skills and my analytical thinking skills. Beyond that, I am determined to get better, know more, and be smarter in order to accomplish my tasks without issues. It is my belief that other than my own motivation to be better, my honesty, respect, and patience will allow me to enhance my skill and overall as a cybersecurity professional.
+My name is Dreylon, I am interested in puzzles and computers and I want to have a job I can enjoy, so I want to develop my programming skills more, as well as my problem-solving skills and my analytical thinking skills. 
+Beyond that, I am determined to get better, know more, and be smarter in order to accomplish my tasks without issues. 
+It is my belief that other than my own motivation to be better, my honesty, respect, and patience will allow me to enhance my skill and overall as a cybersecurity professional.
 
 
 
@@ -44,7 +46,14 @@ High school diploma.
 1. Experience using browser software for scanning, researching, and solving problems
      
 work day summerized.    
-40 hr/week, 10 hr/day, 4 days/week. From the start of the shift, we are staffed and restaffed 4 times every shift, at the start, after first break (15 min), after lunch (30 min), and after third break (15 min). Positions varied from pushing boxes on the conveyor to lifting and placing boxes in various carts based on destination and organizing the boxes in the carts as well the very same is done with the boxes in trailers. There are other special positions you have to get trained for, (problem solver, TDR, pit driver, learning, safety) I chose to do problem solve. In problem solve, I worked on a mobile laptop, a hand scanner connected to the laptop, and a printer connected to the laptop. As a problem solver, I fix problems with the boxes having to do with vendor mistakes, incorrect destination, labeling, shipment, and dock clerk or PID mistakes. Many of these issues I have to verify what the problem is by researching, then using the correct tool (or combination of tools) to fix the issue. I have to fix each of the boxes quickly, or I could be overwhelmed. Every day as a problem solver is different as on some days several boxes will be problems complex and consistent and other days are calmer with more simple issues.
+40 hr/week, 10 hr/day, 4 days/week. From the start of the shift, we are staffed and restaffed 4 times every shift, at the start, after first break (15 min), after lunch (30 min), and after third break (15 min). 
+Positions varied from pushing boxes on the conveyor to lifting and placing boxes in various carts based on destination and organizing the boxes in the carts as well the very same is done with the boxes in trailers. 
+There are other special positions you have to get trained for, (problem solver, TDR, pit driver, learning, safety) I chose to do problem solve. 
+In problem solve, I worked on a mobile laptop, a hand scanner connected to the laptop, and a printer connected to the laptop. 
+As a problem solver, I fix problems with the boxes having to do with vendor mistakes, incorrect destination, labeling, shipment, and dock clerk or PID mistakes. 
+Many of these issues I have to verify what the problem is by researching, then using the correct tool (or combination of tools) to fix the issue. 
+I have to fix each of the boxes quickly, or I could be overwhelmed.
+Every day as a problem solver is different as on some days several boxes will be problems complex and consistent and other days are calmer with more simple issues.
 
 
 
