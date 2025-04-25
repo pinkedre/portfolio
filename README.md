@@ -1,6 +1,6 @@
 # Dreylon Pinkett/20
 Aug, 10, 2004.   
-5947 7th ave SE, 98503, Lacey
+5947 7th ave SE, Lacey ,98503
 
 (360) 970-5314
 
@@ -30,8 +30,14 @@ It is my belief that other than my own motivation to be better, my honesty, resp
 
 # School/Education 
 ## North Thurston High School   
+2019-2023
 High school diploma  
-600 Sleater Kinney Rd NE, lacey
+600 Sleater Kinney Rd NE, lacey   
+
+## New Market Skill Center  
+2022-2023   
+Video game development   
+7299 New Market St. SW Tumwater WA 98501   
 
 ## coursera     
 cybersecurity certificate - in progress
@@ -54,4 +60,4 @@ https://www.coursera.org/account/accomplishments/verify/Z9AOTWOTZT1K
 1. Experience using browser software for scanning, researching, and solving problems
      
 #### work day summerized    
-i was a problem solver, and as such I worked on laptops, hand scanners, and a printer connected to the laptop. i used research tools to identify issues then used the correct tool to respond with, and used time manegment to mitigate the issues separately. 
+I was a problem solver, and as such I worked on laptops, hand scanners, and a printer connected to the laptop. I used research tools to identify issues then used the correct tool to respond with, and used time manegment to mitigate the issues separately. 
