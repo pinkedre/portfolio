@@ -34,9 +34,10 @@ It is my belief that other than my own motivation to be better, my honesty, resp
 High school diploma  
 600 Sleater Kinney Rd NE
 
-## coursara     
+## coursera     
 cybersecurity certificate   
-status: in progress online  
+[coursera account](https://www.coursera.org/user/7fc005a9fded2e9b7eca54f4b0378b40)   
+March 9th 2025 - in progress     
 1 out of 8 courses done   
 foundations of security course certificate   
 https://www.coursera.org/account/accomplishments/verify/Z9AOTWOTZT1K   
@@ -53,7 +54,7 @@ https://www.coursera.org/account/accomplishments/verify/Z9AOTWOTZT1K
 1. Experience in using cart computers, printers, hand scanners, and Avery scanners
 1. Experience using browser software for scanning, researching, and solving problems
      
-work day summerized.    
+#### work day summerized    
 40 hr/week, 10 hr/day, 4 days/week. From the start of the shift, we are staffed and restaffed 4 times every shift, at the start, after first break (15 min), after lunch (30 min), and after third break (15 min). 
 Positions varied from pushing boxes on the conveyor to lifting and placing boxes in various carts based on destination and organizing the boxes in the carts as well the very same is done with the boxes in trailers. 
 There are other special positions you have to get trained for, (problem solver, TDR, pit driver, learning, safety) I chose to do problem solve. 
