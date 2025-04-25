@@ -1,4 +1,5 @@
-# Dreylon Pinkett
+# Dreylon Pinkett/20
+Aug, 10, 2004.   
 5947 7th ave SE
 Lacey, 98503
 
@@ -29,9 +30,16 @@ It is my belief that other than my own motivation to be better, my honesty, resp
 
 
 # School/Education 
-North Thurston high school.   
-High school diploma.  
-600 Sleater Kinney Rd NE.
+## North Thurston high school   
+High school diploma  
+600 Sleater Kinney Rd NE
+
+## coursara     
+cybersecurity certificate   
+status: in progress online  
+1 out of 8 courses done   
+foundations of security course certificate   
+https://www.coursera.org/account/accomplishments/verify/Z9AOTWOTZT1K   
 
 
 
@@ -39,7 +47,7 @@ High school diploma.
 ## September 2023–January 2025
 ### Amazon 
 #### Warehouse associate
- Lacey, 3300 Hogum Bay Rd NE.  
+ Lacey, 3300 Hogum Bay Rd NE  
 1. 11 months as a problem solver
 1. Lifting up to 60 lb boxes continuously
 1. Experience in using cart computers, printers, hand scanners, and Avery scanners
