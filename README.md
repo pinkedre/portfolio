@@ -30,7 +30,7 @@ It is my belief that other than my own motivation to be better, my honesty, resp
 
 # School/Education 
 ## North Thurston High School   
-2019-2023
+2019-2023   
 High school diploma  
 600 Sleater Kinney Rd NE, lacey   
 
