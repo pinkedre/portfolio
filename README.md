@@ -37,7 +37,7 @@ High school diploma
 ## coursera     
 cybersecurity certificate   
 [coursera account](https://www.coursera.org/user/7fc005a9fded2e9b7eca54f4b0378b40)   
-March 9th 2025 - in progress     
+March 9th 2025 - present        
 1 out of 8 courses done   
 foundations of security course certificate   
 https://www.coursera.org/account/accomplishments/verify/Z9AOTWOTZT1K   
