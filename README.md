@@ -17,15 +17,15 @@ It is my belief that other than my own motivation to be better, my honesty, resp
 
 
 # Skills
-1. Decisive communication skills
-6. Basic Understanding of the computers, OSI model and networking
-8. Experience with windows and Linux (Ubuntu, Kali)(1+ year)
-1. Able to work with diverse groups of people in a professional environment 
-1. Able to stand/walk for several hours at a time
-2. Can communicate with several types of people in person or on the phone
-2. Strong patience and work ethic 
-5. Able to follow instructions clearly
-2. A quick learner and a fast worker
+- Decisive communication skills
+- Basic Understanding of the computers, OSI model and networking
+- Experience with windows and Linux (Ubuntu, Kali)(1+ year)
+- Able to work with diverse groups of people in a professional environment
+- Able to stand/walk for several hours at a time
+- Can communicate with several types of people in person or on the phone
+- Strong patience and work ethic 
+- Able to follow instructions clearly
+- A quick learner and a fast worker
 
 
 # School/Education 
@@ -53,11 +53,29 @@ https://www.coursera.org/account/accomplishments/verify/Z9AOTWOTZT1K
 ## September 2023–January 2025
 ### Amazon 
 #### Warehouse associate
- 3300 Hogum Bay Rd NE, Lacey   
-1. 11 months as a problem solver
-1. Lifting up to 60 lb boxes continuously
-1. Experience in using cart computers, printers, hand scanners, and Avery scanners
-1. Experience using browser software for scanning, researching, and solving problems
+3300 Hogum Bay Rd NE, Lacey   
+- 11 months as a problem solver
+- Lifting up to 60 lb boxes continuously
+- Experience in using cart computers, printers, hand scanners, and Avery scanners
+- Experience using browser software for scanning, researching, and solving problems
      
 #### work day summerized    
 I was a problem solver, and as such I worked on laptops, hand scanners, and a printer connected to the laptop. I used research tools to identify issues then used the correct tool to respond with, and used time manegment to mitigate the issues separately. 
+
+
+## June 2022–March 2023   
+### Wendy’s   
+#### crew member   
+526 Sleater Kinney Rd SE, Lacey
+- Learned multiple positions in the span of a few months 
+- Worked in a fast-paced workspace
+- Handled customer service and ordered at the counter 
+- Organize in stocking several items
+   
+#### work day Summary
+I knew how to use the fryer and the grill,how to take orders and how to manage customers. i would cleaning, orginize and restock In this routine.   
+
+#### References    
+Wendys:  (360)  459-7373    Armando Quiroz General Manager    
+
+
